@@ -1,0 +1,12 @@
+Detail information:
+
+Username : hafiz
+Course Name : Information Technology
+Section : 3
+-------------------------------------------
+
+No	Course		 				Credit Hour
+1	PROGRAMMING PRINCIPLE      		3
+
+-------------------------------------------
+Total Credit Hour: 3
